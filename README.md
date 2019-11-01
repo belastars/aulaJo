@@ -33,7 +33,7 @@ Desenvolver uma API a fim de disponibilizar uma lista de tarefas a ser compartil
 -[x] Check para verificar se o item já foi concluído
 -[x] Retornar somente a tarefa encontrada por ID
 
-Extras :alien:  
+:alien:  Extras:
 
  Mostrar somente itens concluidos
  Buscar tarefas somente de um determinado colaborador
