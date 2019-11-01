@@ -23,3 +23,10 @@ exports.getFeito = (req,res) =>{
     res.status(200).send(tarefaFeita)
 
 }
+
+exports.getByName = (req,res) =>{
+
+    const nomeColaborador = req.params.nomeColaborador; // falamos expecifico do nome então estaremos requisitando o parametro nomeColaborador
+    const name = tarefas.find(tarefa => tarefa.nomeColaborador == nomeColaborador)
+    res.status(200).send(name)
+}
