@@ -18,10 +18,10 @@
 
 ## Conceitos Trabalhados:
 
-[x] MVC
-[x] API
-[x] JSON
-[x] GitHub
+- [x] MVC
+- [x] API
+- [x] JSON
+- [x] GitHub
 
 
 ## Objetivo do Projeto:
